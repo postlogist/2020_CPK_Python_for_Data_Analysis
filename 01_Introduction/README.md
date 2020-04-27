@@ -7,4 +7,4 @@
 * [Строки, ввод и форматирование](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/01_Introduction/2020_CPK_1_2_Strings_Input.ipynb)
 
 ## Материалы для занятия
-*[Задачи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/01_Introduction/2020_CPK_1_0_Problems.ipynb)
+* [Задачи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/01_Introduction/2020_CPK_1_0_Problems.ipynb)
