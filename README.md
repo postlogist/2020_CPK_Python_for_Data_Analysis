@@ -16,8 +16,7 @@
 [Гид по git. Стиль PEP8. Основы работы с Jupyter. Целые и вещественные числа, логические переменные](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/01_Introduction)
 
 2 занятие (29 апреля 2020)
-[Строки, ввод и форматирование. Списки и кортежи. Срезы. Логический оператор if/else]
-(https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/02_Strings_Lists_Tuples)
+[Строки, ввод и форматирование. Списки и кортежи. Срезы. Логический оператор if/else](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/02_Strings_Lists_Tuples)
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 8 занятий из 15.
