@@ -18,7 +18,7 @@
 2 занятие (29 апреля 2020)  
 [Строки, ввод и форматирование. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/02_Strings_Lists_Tuples)
 
-3 занятие (13 мая 2020)
+3 занятие (13 мая 2020)  
 [Срезы. Логический оператор if/else. Цикл while. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/03_If_Else_While_Set_Dict)
 
 ## Формы контроля
