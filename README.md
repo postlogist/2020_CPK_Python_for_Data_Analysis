@@ -19,7 +19,10 @@
 [Строки, ввод и форматирование. Списки и кортежи](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/02_Strings_Lists_Tuples)
 
 3 занятие (13 мая 2020)  
-[Срезы. Логический оператор if/else. Цикл while. Множества и словари](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/03_If_Else_While_Set_Dict)
+[Срезы. Логический оператор if/else. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/03_If_Else_While)
+
+4 занятие (18 мая 2020)  
+[Множества и словари. Цикл for](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/04_Set_Dict_For)
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 8 занятий из 15.
