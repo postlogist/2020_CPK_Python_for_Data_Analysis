@@ -24,6 +24,14 @@
 4 занятие (18 мая 2020)  
 [Множества и словари. Цикл for](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/04_Set_Dict_For)
 
+## Материалы
+[Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework.ipynb)  
+Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox](https://www.dropbox.com/request/qWMzAc8JzHUtIa4zlXYE)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 2 июня | 23.59 9 июня (штраф 40%) |
+
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 8 занятий из 15.
 
