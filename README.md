@@ -21,7 +21,7 @@
 3 занятие (13 мая 2020)  
 [Срезы. Логический оператор if/else. Цикл while](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/03_If_Else_While)
 
-4 занятие (18 мая 2020)  
+4-5 занятие (18 и 20 мая 2020)  
 [Множества и словари. Цикл for](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/04_Set_Dict_For)
 
 ## Домашние задания
