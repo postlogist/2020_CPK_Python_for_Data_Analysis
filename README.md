@@ -32,7 +32,7 @@
 | :- | :- |
 | 23.59 1 июня | 23.59 8 июня (штраф 40%) |
 
-[Домашее задание2](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/%40HW/HW2)
+[Домашее задание 2](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/%40HW/HW2)  
 Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw2](https://www.dropbox.com/request/T9Myjeile3aWtt8HA6OO)
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
