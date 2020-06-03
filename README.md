@@ -24,6 +24,18 @@
 4-5 занятие (18 и 20 мая 2020)  
 [Множества и словари. Цикл for](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/04_Set_Dict_For)
 
+6 занятие (25 мая 2020)  
+[Функции](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/05_Functions)
+
+7 занятие (27 мая 2020)  
+[Работа с файлами. Введение в html. Scraping простых таблицы](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/06_Files_Scraping)
+
+8 занятие (29 мая 2020)  
+[Методы строк и регулярные выражения](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/07_Strings_RegEx_Text_Scraping)
+
+9 занятие (1 июня 2020)  
+[Scraping: переход по ссылкам, скачивание файла и сбор текста](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/08_More_Scraping)
+
 ## Домашние задания
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework.ipynb)  
 Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/qWMzAc8JzHUtIa4zlXYE)
