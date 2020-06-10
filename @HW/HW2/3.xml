@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<api batchcomplete="">
+ <continue cmcontinue="page|41392d4b45333f51392f392d042d313f3f042d513f4f514b31011d01dc1c|50311973" continue="-||"/>
+ <query>
+  <categorymembers>
+   <cm ns="0" pageid="55823152" title="Diffeomorphometry"/>
+   <cm ns="0" pageid="49885288" title="Dirac membrane"/>
+   <cm ns="0" pageid="51084847" title="Dispersive medium"/>
+   <cm ns="0" pageid="43474327" title="Dollar (reactivity)"/>
+   <cm ns="0" pageid="3339367" title="Elitzur–Vaidman bomb tester"/>
+   <cm ns="0" pageid="50791779" title="Energy well"/>
+   <cm ns="0" pageid="25909457" title="Fixed-field alternating gradient accelerator"/>
+   <cm ns="0" pageid="52907991" title="Front (physics)"/>
+   <cm ns="0" pageid="59833659" title="Gapped Hamiltonian"/>
+   <cm ns="0" pageid="41232" title="Harmonic"/>
+   <cm ns="0" pageid="21348562" title="Homeokinetics"/>
+   <cm ns="0" pageid="50013014" title="Hopkinson effect"/>
+   <cm ns="0" pageid="63555971" title="International Association of Seismology and Physics of the Earth’s Interior"/>
+   <cm ns="0" pageid="54738" title="Interpretations of quantum mechanics"/>
+   <cm ns="0" pageid="24012524" title="Kopp–Etchells effect"/>
+   <cm ns="0" pageid="62606505" title="KTHNY theory"/>
+   <cm ns="0" pageid="49418115" title="Large deformation diffeomorphic metric mapping"/>
+   <cm ns="0" pageid="244629" title="Scientific law"/>
+   <cm ns="0" pageid="784621" title="Many-body theory"/>
+   <cm ns="0" pageid="61802217" title="Susana Marcos Celestino"/>
+  </categorymembers>
+ </query>
+</api>
