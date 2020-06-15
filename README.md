@@ -36,6 +36,18 @@
 9 занятие (1 июня 2020)  
 [Scraping: переход по ссылкам, скачивание файла и сбор текста](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/08_More_Scraping)
 
+10 занятие (3 июня 2020)  
+[Selenium: автоматизация работы браузера](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/09_Selenium)
+
+11 занятие (8 июня 2020)
+[Работа с файлами XML и JSON. API](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/10_API_XML_JSON)
+[Numpy](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/11_Numpy_Pandas)
+
+12 занятие (10 июня 2020)
+[Введение в Pandas](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/12_Panda_Intro)
+
+12 зантяие (10 июня 2020)
+
 ## Домашние задания
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework.ipynb)  
 Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/qWMzAc8JzHUtIa4zlXYE)
