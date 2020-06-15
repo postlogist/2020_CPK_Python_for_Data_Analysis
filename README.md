@@ -39,18 +39,16 @@
 10 занятие (3 июня 2020)  
 [Selenium: автоматизация работы браузера](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/09_Selenium)
 
-11 занятие (8 июня 2020)
+11 занятие (8 июня 2020)  
 [Работа с файлами XML и JSON. API](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/10_API_XML_JSON)
 [Numpy](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/11_Numpy_Pandas)
 
-12 занятие (10 июня 2020)
+12 занятие (10 июня 2020)  
 [Введение в Pandas](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/12_Panda_Intro)
-
-12 зантяие (10 июня 2020)
 
 ## Домашние задания
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework.ipynb)  
-Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw1](https://www.dropbox.com/request/qWMzAc8JzHUtIa4zlXYE)
+[Решение](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework_Solution.ipynb)
 
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
@@ -69,6 +67,13 @@
 | ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
 | :- | :- |
 | 23.59 15 июня | 23.59 22 июня (штраф 40%) |
+
+[Домашнее задание 4](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/HW4/4_Homework.ipynb)
+Задание нужно выполнить в notebook, сохранить его, назвать вашей фамилией и загрузить в папку [dropbox hw4](https://www.dropbox.com/request/W9khtDrLwc5Gf3LGWYzX)
+
+| ДЕДЛАЙН: | ПОЗДНИЙ ДЕДЛАЙН: |
+| :- | :- |
+| 23.59 22 июня | НЕТ |
 
 ## Формы контроля
 На каждом занятии оценивается посещаемость. Для получения сертификата нужно посетить минимум 8 занятий из 15.
