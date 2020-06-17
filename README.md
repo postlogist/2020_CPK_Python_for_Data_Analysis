@@ -41,10 +41,13 @@
 
 11 занятие (8 июня 2020)  
 [Работа с файлами XML и JSON. API](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/10_API_XML_JSON)
-[Numpy](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/11_Numpy_Pandas)
+[Numpy](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/11_Numpy)
 
-12 занятие (10 июня 2020)  
+12-13 занятие (10 и 15 июня 2020)  
 [Введение в Pandas](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/12_Panda_Intro)
+
+14 занятие (17 июня)
+[Визуализация с matplotlib и plotly](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/tree/master/13_Viz)
 
 ## Домашние задания
 [Домашнее задание 1](https://github.com/rogovich/2020_CPK_Python_for_Data_Analysis/blob/master/%40HW/1_Homework.ipynb)  
